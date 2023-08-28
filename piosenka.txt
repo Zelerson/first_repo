@@ -4,13 +4,7 @@ zwrotka-1.txt
 
 refren-1.txt
 
-[Verse 2]
-I'll tell you one thing man:
-Nothing ever happens until you medicate
-The Witch Queen of Mongo
-And hail the passing of King George!
-Everybody is eating on behalf of the Gods
-With their plastic necks and their silver teeth
+zwrotka-2.txt
 
 [Chorus]
 We listen to the radio - dead radio
