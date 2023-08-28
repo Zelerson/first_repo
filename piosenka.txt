@@ -6,9 +6,7 @@ refren-1.txt
 
 zwrotka-2.txt
 
-[Chorus]
-We listen to the radio - dead radio
-We listen to the radio - dead radio
+refren-2.txt
 
 [Bridge]
 It's right here, right now that we best serve the beast of transmission
