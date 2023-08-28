@@ -2,9 +2,7 @@ zwrotka-Intro.txt
 
 zwrotka-1.txt
 
-[Chorus]
-We listen to the radio - dead radio
-We listen to the radio - dead radio
+refren-1.txt
 
 [Verse 2]
 I'll tell you one thing man:
