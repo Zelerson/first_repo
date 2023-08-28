@@ -10,6 +10,4 @@ refren-2.txt
 
 zwrotka-3.txt
 
-[Chorus]
-We listen to the radio - dead radio
-We listen to the radio - dead radio
+refren-3.txt
