@@ -1,9 +1,4 @@
-[Intro]
-"Radio has changed our lives and, possibly, saved our lives --"
-"Radio has changed our lives and, possibly, saved our lives --"
-"Radio has changed our lives and, possibly, saved our lives --"
-
-Oh Yeah!
+zwrotka-Intro.txt
 
 [Verse 1]
 I want to tell you about Dead City Radio man
